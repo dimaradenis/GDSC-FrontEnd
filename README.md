@@ -4,7 +4,7 @@ Repositori ini berisi tentang kode yang menampilkan film film lokal Indonesia te
 \
 \
 \
-Kunjungi halaman [Github pages]() untuk melihat situs web. 
+Kunjungi halaman [Github pages](https://dimaradenis.github.io/GDSC-FrontEnd/) untuk melihat situs web. 
 \
 \
 **Jangan lupa berkunjungi pada website kami , terima kasih.**
@@ -20,5 +20,5 @@ Kunjungi halaman [Github pages]() untuk melihat situs web.
 ## Kelebihan 
 - Menyajikan Film Film Indonesia 
 - Website dengan Film Film Indonesia Terbaik !
-- Situs Web Langsung Dengan [halaman Github]()
+- Situs Web Langsung Dengan [halaman Github](https://dimaradenis.github.io/GDSC-FrontEnd/)
 
